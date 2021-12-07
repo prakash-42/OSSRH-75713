@@ -1,2 +1,2 @@
 # OSSRH-75713
-To prove ownership of "com.github.prakashiit"
+To prove ownership of "io.github.prakashiit"
